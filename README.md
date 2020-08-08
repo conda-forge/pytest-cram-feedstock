@@ -5,7 +5,7 @@ Home: https://pypi.org/project/pytest-cram
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Run cram tests with pytest
 
